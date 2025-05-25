@@ -1,7 +1,7 @@
-# Assignment 3: Files
+# Assignment 3: Functional Programming, File I/O
 
 ## Overview
-In this assignment, students learn how to use file I/O, map, filter, and lambda in the Python programming language to implement solutions to real-life problems.
+In this assignment, students learn how to use the functional programming paradigm (map, lambda, filter), file I/O, in the Python programming language to implement solutions to real-life problems.
 
 ## Topics Covered
 - File I/O
